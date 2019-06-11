@@ -11,6 +11,7 @@
  *
  * Text Domain: ymm-search
  * Domain Path: /i18n/languages
+ * GitHub Plugin URI: https://github.com/timloden/ymm-search
  *
  * WC requires at least: 3.0
  * WC tested up to: 3.5
